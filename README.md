@@ -56,4 +56,9 @@ This application is for educational purposes only. It may contain bugs and is no
 
 
 
+
+
+
+# With GUI
+
 ![Screenshot (214)](https://github.com/namanx/ChatApp_using_Java/assets/94428936/a132a44c-2b00-4a5e-9ac0-c25edebb2671)
