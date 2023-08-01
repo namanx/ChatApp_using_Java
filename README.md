@@ -42,5 +42,11 @@ This chat application is created by Naman Guntiwar.
 
 ## Disclaimer
 This application is for educational purposes only. It may contain bugs and is not intended for production use.
+
+## Output
+
+
+
+
 ![ChatApp_v1](https://github.com/namanx/ChatApp_using_Java/assets/94428936/9ee4027c-8ced-4ab7-884b-7e28253ba9bf)
 
