@@ -49,5 +49,5 @@ This application is for educational purposes only. It may contain bugs and is no
 
 
 ![ChatApp_v1](https://github.com/namanx/ChatApp_using_Java/assets/94428936/9ee4027c-8ced-4ab7-884b-7e28253ba9bf)
-![Screenshot (213)](https://github.com/namanx/ChatApp_using_Java/assets/94428936/cbd96b8e-1490-4c85-8774-b67a85d0cc09)
+
 
