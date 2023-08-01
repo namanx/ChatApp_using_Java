@@ -1,7 +1,7 @@
 # Java Chat Application
 
 ## Introduction
-This is a Java chat application that demonstrates various concepts of Object-Oriented Programming (OOPs), Multithreading, Networking, and String Handling in Java. The application allows users to connect to a chat server using sockets and exchange messages in real-time.
+This is a Java chat application that demonstrates various concepts of Object-Oriented Programming (OOPs), Multithreading, Networking, Java Swing Library, and String Handling in Java. The application allows users to connect to a chat server using sockets and exchange messages in real-time.
 
 ## Features
 - Multiple users can connect to the chat server simultaneously.
@@ -9,6 +9,7 @@ This is a Java chat application that demonstrates various concepts of Object-Ori
 - The application utilizes multithreading to handle multiple client connections efficiently.
 - String handling is used to process and manage incoming and outgoing messages.
 - The chat application provides a simple and intuitive command-line interface for users.
+- A Simple Java GUI using Swing package
 
 ## Requirements
 - Java Development Kit (JDK) 8 or higher.
